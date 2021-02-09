@@ -1,0 +1,9 @@
+---
+name: Jupyter 
+category: BioGrids Applications
+subcategory: IDE
+role: batch_connect
+description: |
+  This app will launch a BioGrids Jupyter Notebook.
+
+  BioGrids Jupyter includes ten kernels for python and R. 
